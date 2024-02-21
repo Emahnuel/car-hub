@@ -59,7 +59,7 @@ const SearchManufacturer = ({
                     key={item}
                     value={item}
                     as={Fragment}
-                    className="relative search-manufacturer__option"
+                    //className="relative search-manufacturer__option"
                   >
                     {({ active, selected }) => (
                       <li
